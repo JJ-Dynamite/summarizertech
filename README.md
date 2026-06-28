@@ -1,6 +1,6 @@
 # Summarize any YouTube video
 
-[![CI](https://github.com/JJ-Dynamite/summarizer-tech/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/summarizer-tech/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/faang-summarizer-tech/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-summarizer-tech/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Summarize any YouTube video - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/summarizer-tech.git
+git clone https://github.com/JJ-Dynamite/faang-summarizer-tech.git
 cd summarizer-tech
 
 # Install backend dependencies

@@ -1,4 +1,4 @@
-# Contributing to summarizer-tech
+# Contributing to faang-summarizer-tech
 
 Thank you for your interest in contributing!
 

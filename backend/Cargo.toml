@@ -1,11 +1,11 @@
 [package]
-name = "summarizer-tech-backend"
+name = "faang-summarizer-tech-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Summarize any YouTube video - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/summarizer-tech"
+repository = "https://github.com/JJ-Dynamite/faang-summarizer-tech"
 
 [dependencies]
 axum = "0.7"
